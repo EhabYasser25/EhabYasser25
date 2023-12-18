@@ -88,14 +88,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EhabYasser25&show_icons=true&langs_count=10&locale=en&layout=compact&PAT_1&theme=github_dark" width="300" alt="EhabYasser25" />
 </div>
 
-<hr>
+<!--<hr>
 
 <h3 align="center">
   <img src="https://cdn-icons-gif.flaticon.com/12198/12198821.gif" width="25"> 
   Contributions
 </h3>
 
-<br>
+<br>-->
 
 
 
