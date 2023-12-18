@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=1500&pause=250&color=0000FF&center=true&vCenter=true&random=false&width=900&lines=Hi+there%2C+I+am+Ehab+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=1500&pause=250&color=0000FF&center=true&vCenter=true&random=false&width=900&lines=Hi+there+%F0%9F%91%8B%2C+I+am+Ehab" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=&weight=500&size=25&duration=2000&pause=500&color=0000FF&center=true&vCenter=true&multiline=true&random=false&width=900&height=100&lines=Junior+Software+Engineer;Alexandria+University;Computer+and+Systems+Engineering+Department" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=&weight=500&size=25&duration=2000&pause=500&color=0000FF&center=true&vCenter=true&multiline=true&random=false&width=900&height=105&lines=Junior+Software+Engineer;Alexandria+University;Computer+and+Systems+Engineering+Department" alt="Typing SVG" />
 </div>
 
 <br>
