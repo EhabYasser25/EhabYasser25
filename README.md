@@ -18,7 +18,7 @@
 
 <div align="center">
   <a href="mailto:eng.ehabyasser@gmail.com">
-    <img src="https://img.shields.io/badge/Email-b23121?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-b23121?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/ehabyasser25/">
     <img src="https://img.shields.io/badge/LinkedIn-0a66c2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
