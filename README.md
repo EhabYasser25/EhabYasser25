@@ -81,9 +81,11 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EhabYasser25&show_icons=true&locale=en&PAT_1=&theme=github_dark" alt="EhabYasser25" />
 </div>
+<br>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EhabYasser25&theme=github-dark-blue" alt="EhabYasser25" />
 </div>
+<br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EhabYasser25&show_icons=true&langs_count=10&locale=en&layout=compact&theme=github_dark&hide=jupyter%20notebook" width="300" alt="EhabYasser25" />
 </div>
