@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=&weight=500&size=25&duration=2000&pause=500&color=0000FF&center=true&vCenter=true&multiline=true&random=false&width=900&height=105&lines=Junior+Software+Engineer;Alexandria+University;Computer+and+Systems+Engineering+Department" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=&weight=500&size=25&duration=1700&pause=0&color=0000FF&center=true&vCenter=true&multiline=true&random=false&width=900&height=105&lines=Junior+Software+Engineer;Alexandria+University;Computer+and+Systems+Engineering+Department" alt="Typing SVG" />
 </div>
 
 <br>
